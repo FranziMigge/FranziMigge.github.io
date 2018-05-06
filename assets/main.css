@@ -419,6 +419,22 @@ h1 .li, h2 .li, h3 .li, p .li {
 	fill: #309EDB;
 }
 
+#icons01 .n04 svg {
+	fill: #CCCCCC;
+}
+
+#icons01 .n04 {
+	border: solid 1px #CCCCCC;
+}
+
+#icons01 .n04:hover {
+	border-color: #309EDB;
+}
+
+#icons01 .n04:hover svg {
+	fill: #309EDB;
+}
+
 @media (max-width: 1680px) {
 	html {
 		font-size: 13pt;
